@@ -30,31 +30,31 @@
     }
   },
   "alreadlyBlocked": {
-    "message": "屏蔽",
+    "message": "已屏蔽",
     "description": "ブロック済み"
   },
   "blockThisUrl": {
-    "message": "屏蔽",
+    "message": "屏蔽这个网站",
     "description": "ブロックする"
   },
   "removeUrlFromBlocklist": {
-    "message": "允许",
+    "message": "取消屏蔽",
     "description": "ブロック解除"
   },
   "pws_option_mes": {
-    "message": "网址上使用pws = 0时停止阻止",
+    "message": "当网址上使用pws = 0（非个性化搜索结果）时取消屏蔽",
     "description": "stop blocking when using pws=0 at URL"
   },
   "save": {
-    "message": "拯救",
+    "message": "保存",
     "description": "Save"
   },
   "copy": {
-    "message": "所有的副本",
+    "message": "全部复制",
     "description": "Copy all"
   },
   "back": {
-    "message": "回去",
+    "message": "返回",
     "description": "Back"
   }
 }
